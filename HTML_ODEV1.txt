@@ -1,0 +1,22 @@
+< html >
+    < başlık > Ödev 1 HTML </ başlık >
+    < N >
+
+        <!-- NAZOHANE-->
+
+        < h1 > Nazmiye ARSLAN </ h1 >
+
+        <!-- Kendi hakkımda bilgi  kısımı -->
+
+        < h3 > Hakkımda </ h3 >
+        < p > Özetle Nazmiye kim midir? Lise eğitiminden lisans eğitimine dek eğitim ve Bilişim Dünyası'nın içinde yer alan iş insanıdır.</ p >
+        < h2 > Sevdiğim kitaplar </ h2 >
+
+        < h5 > BEYAZ DİŞ </ h5 >
+        < h5 > ARTIK SENİ İSTEMİYORUM </ h5 >
+        < h5 > ELDE VAR HATA </ h5 >
+        < h5 > SAVAŞÇI </ h5 >
+
+        
+    </ N >
+</ html >
